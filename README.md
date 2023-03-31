@@ -2,9 +2,10 @@
 Welcome to my GitHub repository where I've shared my resume. This repository contains the latest version of my resume, along with some other helpful resources.
 <br/>
 
+<!--
 Resume<br/>
 The latest version of my resume can be found in the resume folder. You can view it online or download a PDF version.
-
+-->
 Skills<br/>
 Here are some of my key skills:<br/>
 
