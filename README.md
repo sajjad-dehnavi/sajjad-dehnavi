@@ -16,7 +16,7 @@ Compose<br/>
 
 If you'd like to get in touch, you can reach me at:<br/>
 
-Email: [Dehnavi671@gamil.com]<br/>
-LinkedIn: [https://www.linkedin.com/in/sajjad-dehnavi-19b130172/]<br/>
+Email: Dehnavi671@gamil.com<br/>
+LinkedIn: https://www.linkedin.com/in/sajjad-dehnavi-19b130172/<br/>
 
 
