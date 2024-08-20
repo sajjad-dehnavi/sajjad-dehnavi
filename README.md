@@ -13,6 +13,5 @@ Kotlin<br/>
 Java<br/>
 Compose<br/>
 
-email: Dehnavi671@gmail.com 
 
 
