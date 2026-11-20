@@ -1,17 +1,25 @@
-<div align="center">
-  <h1>Sajjad Dehnavi</h1>
-  <h3>Android Developer</h3>
-</div>
+# Sajjad Dehnavi
 
-Welcome to my GitHub repository.
-<br/>
+**Software Engineer · Product Builder**
 
-Here are some of my key skills:<br/>
+I'm a software engineer interested in building products, solving problems, and turning ideas into reality.
 
-Android<br/>
-Kotlin<br/>
-Java<br/>
-Compose<br/>
+I enjoy working across different layers of software development — from designing systems and building applications to developing backend services, integrating AI, and deploying products to production.
 
+I believe good software is more than just code. It's about understanding problems, making thoughtful decisions, and building solutions that are useful, reliable, and maintainable.
 
+### Areas of Interest
 
+- Software Architecture & System Design
+- Product Development
+- Mobile & Backend Engineering
+- AI-powered Applications
+- Automation & Infrastructure
+
+### Beyond Code
+
+Always curious about how technology, business, and ideas come together to create meaningful products.
+
+---
+
+*Building things that matter.* 🚀
